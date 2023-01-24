@@ -1,0 +1,21 @@
+#header {
+    width: 100%;
+ margin-top: 0px;
+ font-size: 24px;
+ letter-spacing: 1px;
+}
+body {
+  
+    background-position: center;
+    text-align: center;
+}
+.note {
+    color: black;
+    font-size:16px;
+}
+canvas {
+    border-radius: 50px;
+    margin-top: 300px;
+    
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+}
