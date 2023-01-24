@@ -1,4 +1,4 @@
-status = ""
+status = "";
 function preload() {
 
 }
